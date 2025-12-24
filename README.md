@@ -76,7 +76,7 @@ http://localhost:5173
 ```bash
 yogita/
 ├── backend/          # Backend server code (e.g., API, database logic)
-├── ygt/              # Frontend application (React/Vue/HTML/CSS/JS)
+├── frontend/              # Frontend application (React/Vue/HTML/CSS/JS)
 └── ygt_backup/       # Backup/snapshots of frontend code
 ```
 ###  Notes
