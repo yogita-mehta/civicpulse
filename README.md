@@ -1,4 +1,4 @@
-# CivicPulse - Citizen Grievance Management System(Ongoing)
+# CivicPulse - Citizen Grievance Management System (Ongoing)
 
 CivicPulse is a modern web application that enables citizens to submit grievances and complaints to government departments. Department officers can manage, track, and resolve complaints efficiently, while admins can monitor and assign complaints. The system also supports feedback from citizens after resolution.
 
@@ -24,7 +24,14 @@ CivicPulse is a modern web application that enables citizens to submit grievance
 - Monitor complaint statuses: Pending, Assigned, In Progress, Resolved
 
 ---
-
+## Current Status
+- ✅ Citizen registration & login
+- ✅ Complaint submission with images
+- ✅ Citizen feedback after resolution
+- ⚡ Admin dashboard (assigning complaints, monitoring status) – In Progress
+- ⚡ Department portal (view & resolve complaints) – In Progress
+- ⚡ Testing, CI/CD, and deployment – Upcoming
+  
 ## Tech Stack
 
 - **Frontend:** React, TypeScript, TailwindCSS, Vite  
